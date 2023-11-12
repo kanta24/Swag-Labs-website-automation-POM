@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Sanzida-Kanta",
+    "children" : [ {
+      "name" : "6640@Sanzida-Kanta.main(1)",
+      "children" : [ {
+        "name" : "loginIntoSystem",
+        "uid" : "45cfc63558096752",
+        "parentUid" : "05bb1cc8941631ab7faccdef6e84a660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694941047781,
+          "stop" : 1694941051691,
+          "duration" : 3910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clickOnAddToCart",
+        "uid" : "54d167dcbd11ccef",
+        "parentUid" : "05bb1cc8941631ab7faccdef6e84a660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694941051964,
+          "stop" : 1694941055390,
+          "duration" : 3426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "logoutFromSystem",
+        "uid" : "9dd6e65c90a8a2e6",
+        "parentUid" : "05bb1cc8941631ab7faccdef6e84a660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694941085711,
+          "stop" : 1694941092092,
+          "duration" : 6381
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "confirmation",
+        "uid" : "fd6a838a6f353c3b",
+        "parentUid" : "05bb1cc8941631ab7faccdef6e84a660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694941085381,
+          "stop" : 1694941085697,
+          "duration" : 316
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkOut",
+        "uid" : "deb78b5b0412823b",
+        "parentUid" : "05bb1cc8941631ab7faccdef6e84a660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694941069006,
+          "stop" : 1694941085367,
+          "duration" : 16361
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clickOnCartBtn",
+        "uid" : "5341647dca4ce87",
+        "parentUid" : "05bb1cc8941631ab7faccdef6e84a660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694941055409,
+          "stop" : 1694941068978,
+          "duration" : 13569
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "05bb1cc8941631ab7faccdef6e84a660"
+    } ],
+    "uid" : "602e2cbd8792343216b73a35cd663f27"
+  } ]
+}

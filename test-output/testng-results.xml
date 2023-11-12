@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-12T18:06:34 BDT" name="Default Suite" finished-at="2023-11-12T18:07:25 BDT" duration-ms="50954">
+    <groups>
+    </groups>
+    <test started-at="2023-11-12T18:06:34 BDT" name="selenium_pom" finished-at="2023-11-12T18:07:25 BDT" duration-ms="50954">
+      <class name="testClasses.LogoutTest">
+        <test-method is-config="true" signature="driverInitialize()[pri:0, instance:testClasses.LogoutTest@3c7f66c4]" started-at="2023-11-12T18:06:34 BDT" name="driverInitialize" finished-at="2023-11-12T18:06:43 BDT" duration-ms="9236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialize -->
+        <test-method signature="loginIntoSystem()[pri:1, instance:testClasses.LogoutTest@3c7f66c4]" started-at="2023-11-12T18:06:43 BDT" name="loginIntoSystem" finished-at="2023-11-12T18:06:46 BDT" duration-ms="3402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoSystem -->
+        <test-method signature="clickOnAddToCart()[pri:2, instance:testClasses.LogoutTest@3c7f66c4]" started-at="2023-11-12T18:06:46 BDT" name="clickOnAddToCart" finished-at="2023-11-12T18:06:50 BDT" duration-ms="3138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAddToCart -->
+        <test-method signature="clickOnCartBtn()[pri:3, instance:testClasses.LogoutTest@3c7f66c4]" started-at="2023-11-12T18:06:50 BDT" name="clickOnCartBtn" finished-at="2023-11-12T18:07:03 BDT" duration-ms="13175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCartBtn -->
+        <test-method signature="checkOut()[pri:4, instance:testClasses.LogoutTest@3c7f66c4]" started-at="2023-11-12T18:07:03 BDT" name="checkOut" finished-at="2023-11-12T18:07:18 BDT" duration-ms="15468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOut -->
+        <test-method signature="confirmation()[pri:5, instance:testClasses.LogoutTest@3c7f66c4]" started-at="2023-11-12T18:07:18 BDT" name="confirmation" finished-at="2023-11-12T18:07:18 BDT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmation -->
+        <test-method signature="logoutFromSystem()[pri:6, instance:testClasses.LogoutTest@3c7f66c4]" started-at="2023-11-12T18:07:18 BDT" name="logoutFromSystem" finished-at="2023-11-12T18:07:24 BDT" duration-ms="6119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromSystem -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testClasses.LogoutTest@3c7f66c4]" started-at="2023-11-12T18:07:24 BDT" name="teardown" finished-at="2023-11-12T18:07:25 BDT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testClasses.LogoutTest -->
+    </test> <!-- selenium_pom -->
+  </suite> <!-- Default Suite -->
+</testng-results>

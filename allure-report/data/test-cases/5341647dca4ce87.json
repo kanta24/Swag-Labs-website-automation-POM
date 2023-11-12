@@ -1,0 +1,94 @@
+{
+  "uid" : "5341647dca4ce87",
+  "name" : "clickOnCartBtn",
+  "fullName" : "testClasses.AddtoCartTest.clickOnCartBtn",
+  "historyId" : "ede4d17dec1dbfd0f3141a9e7ed8e86",
+  "time" : {
+    "start" : 1694941055409,
+    "stop" : 1694941068978,
+    "duration" : 13569
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driverInitialize",
+    "time" : {
+      "start" : 1694941040221,
+      "stop" : 1694941047499,
+      "duration" : 7278
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1694941092101,
+      "stop" : 1694941092533,
+      "duration" : 432
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testClasses.LogoutTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testClasses.LogoutTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnCartBtn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "selenium_pom"
+  }, {
+    "name" : "subSuite",
+    "value" : "testClasses.LogoutTest"
+  }, {
+    "name" : "host",
+    "value" : "Sanzida-Kanta"
+  }, {
+    "name" : "thread",
+    "value" : "6640@Sanzida-Kanta.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5341647dca4ce87.json",
+  "parameterValues" : [ ]
+}

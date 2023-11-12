@@ -1,0 +1,61 @@
+[ {
+  "uid" : "54d167dcbd11ccef",
+  "name" : "clickOnAddToCart",
+  "time" : {
+    "start" : 1694941051964,
+    "stop" : 1694941055390,
+    "duration" : 3426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45cfc63558096752",
+  "name" : "loginIntoSystem",
+  "time" : {
+    "start" : 1694941047781,
+    "stop" : 1694941051691,
+    "duration" : 3910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5341647dca4ce87",
+  "name" : "clickOnCartBtn",
+  "time" : {
+    "start" : 1694941055409,
+    "stop" : 1694941068978,
+    "duration" : 13569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9dd6e65c90a8a2e6",
+  "name" : "logoutFromSystem",
+  "time" : {
+    "start" : 1694941085711,
+    "stop" : 1694941092092,
+    "duration" : 6381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd6a838a6f353c3b",
+  "name" : "confirmation",
+  "time" : {
+    "start" : 1694941085381,
+    "stop" : 1694941085697,
+    "duration" : 316
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "deb78b5b0412823b",
+  "name" : "checkOut",
+  "time" : {
+    "start" : 1694941069006,
+    "stop" : 1694941085367,
+    "duration" : 16361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

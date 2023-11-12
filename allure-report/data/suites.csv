@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Sep 17 14:57:27 BDT 2023","Sun Sep 17 14:57:31 BDT 2023","3910","Default Suite","selenium_pom","testClasses.LogoutTest","testClasses.LogoutTest","loginIntoSystem","loginIntoSystem",""
+"passed","Sun Sep 17 14:57:31 BDT 2023","Sun Sep 17 14:57:35 BDT 2023","3426","Default Suite","selenium_pom","testClasses.LogoutTest","testClasses.LogoutTest","clickOnAddToCart","clickOnAddToCart",""
+"passed","Sun Sep 17 14:58:05 BDT 2023","Sun Sep 17 14:58:12 BDT 2023","6381","Default Suite","selenium_pom","testClasses.LogoutTest","testClasses.LogoutTest","logoutFromSystem","logoutFromSystem",""
+"passed","Sun Sep 17 14:58:05 BDT 2023","Sun Sep 17 14:58:05 BDT 2023","316","Default Suite","selenium_pom","testClasses.LogoutTest","testClasses.LogoutTest","confirmation","confirmation",""
+"passed","Sun Sep 17 14:57:49 BDT 2023","Sun Sep 17 14:58:05 BDT 2023","16361","Default Suite","selenium_pom","testClasses.LogoutTest","testClasses.LogoutTest","checkOut","checkOut",""
+"passed","Sun Sep 17 14:57:35 BDT 2023","Sun Sep 17 14:57:48 BDT 2023","13569","Default Suite","selenium_pom","testClasses.LogoutTest","testClasses.LogoutTest","clickOnCartBtn","clickOnCartBtn",""
